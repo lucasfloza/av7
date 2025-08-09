@@ -1,4 +1,4 @@
-# Relatório — Integração Numérica e Energia Potencial Elástica
+# Relatório
 
 ## 1. Introdução
 
